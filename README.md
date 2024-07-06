@@ -1,1 +1,3 @@
 # PropertEase
+PropertEase is a dynamic real estate website developed using React JS and Material UI, designed to simplify the process of finding rental properties. The project aimed to create a user-friendly interface with intuitive navigation and robust search functionalities. Key features included interactive map integration, allowing users to explore properties visually, and responsive design to ensure seamless performance on desktop and mobile devices alike. By leveraging React JS's component-based architecture, the website achieved scalability and maintainability, crucial for handling future expansions and updates. PropertEase aimed to enhance the real estate browsing experience by combining cutting-edge technology with user-centric design principles.
+
